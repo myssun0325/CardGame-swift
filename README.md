@@ -2,6 +2,8 @@
 
 ![실행화면](pics/resultScreen.png)
 
+![](pics/playResult.png)
+
 ## CardGame의 객체들
 
 #### class Card : 카드 1장을 표현하는 객체
